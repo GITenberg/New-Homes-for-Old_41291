@@ -1,0 +1,32 @@
+_repo: New-Homes-for-Old_41291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41291-h/images/new_cover.jpg
+creator:
+  author:
+    agent_name: Breckinridge, Sophonisba Preston
+    aliases:
+    - Breckenridge, Sophonisba Preston
+    - Breckinridge, Sophonisba P. (Sophonisba Preston)
+    - Breckinridge, S. P. (Sophonisba Preston)
+    birthdate: 1866
+    deathdate: 1948
+    gutenberg_agent_id: '41096'
+    url: http://www.gutenberg.org/2009/agents/41096
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41291'
+  lccn: '21013300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americanization'
+- !lcc 'JV'
+- !lcsh 'Immigrants -- United States'
+title: New Homes for Old
+url: http://www.gutenberg.org/ebooks/41291
